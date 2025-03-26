@@ -1,0 +1,5 @@
+2025-03-25 09:25:02,126 - utils - INFO - Directorio creado: C:/Users/jcespedes/Documents/GitHub/facturas\resultados
+2025-03-25 09:25:02,126 - utils - INFO - Directorio creado: C:/Users/jcespedes/Documents/GitHub/facturas\resultados\csv
+2025-03-25 09:25:02,126 - main - INFO - Se encontraron 2 archivos PDF para procesar
+2025-03-25 09:25:02,126 - main - INFO - Iniciando procesamiento consolidado de facturas
+2025-03-25 09:25:03,726 - main - INFO - Se ha creado el archivo Excel consolidado: C:/Users/jcespedes/Documents/GitHub/facturas\resultados\facturas_analizadas.xlsx
